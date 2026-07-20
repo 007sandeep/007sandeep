@@ -27,10 +27,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/007sandeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="007sandeep" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sandeep-talluri-bab703129/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-talluri-bab703129/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sandeep-talluri-bab703129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-talluri-bab703129" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/Sandeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Sandeep" height="30" width="40" /></a>
-<a href="https://kaggle.com/sandeep talluri 007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sandeep talluri 007" height="30" width="40" /></a>
-<a href="https://instagram.com/sandeep_chowdary007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandeep_chowdary007" height="30" width="40" /></a>
+<a href="https://kaggle.com/sandeeptalluri007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sandeeptalluri007" height="30" width="40" /></a>
+<a href="https://instagram.com/@sandeep_chowdary007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sandeep_chowdary007" height="30" width="40" /></a>
 <a href="https://twitter.com/@tallurisan26635" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tallurisan26635" height="30" width="40" /></a>
 <a href="https://hackerrank.com/@sandeeptalluri96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sandeeptalluri96" height="30" width="40" /></a>
 </p>
