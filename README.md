@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I enjoy turning complex business workflows into intelligent AI-powered automation.**
 
-- 👨‍💻 All of my projects are available at **[sandeep-talluri.onrender.com](sandeep-talluri.onrender.com)**
+- 👨‍💻 All of my projects are available at **[https://sandeep-talluri.onrender.com/](https://sandeep-talluri.onrender.com/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
